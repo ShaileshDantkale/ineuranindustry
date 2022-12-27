@@ -1,4 +1,4 @@
-## This is git tutorials by krish
+## This is amazing git tutorials by krish
 ## we will learn git tutorialcls
 ## abcde
 
